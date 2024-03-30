@@ -215,7 +215,7 @@ def magazin(player, enemy):
                     else:
                         print(f"У вас недостаточно монет. Ваши монеты: {player.money}")
                 else:
-                    print("\nНапиши цифру...")
+                    print("\nНапиши цифру....")
 
             elif choice == "2":
 
